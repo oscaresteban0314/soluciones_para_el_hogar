@@ -150,6 +150,8 @@
        display: none;
       }
       .img_container{
+        padding-top: 12px;
+        padding-bottom: 12px;
         display: block;
         justify-content: center;
       } 
