@@ -140,16 +140,16 @@
     .navbar-left ul, .navbar-email, .desktop-menu {
       display: none;
     }
-    .logo{
-       position: relative;
-       right: 140%;
-    }
     .info{
         font-size:20px;
         line-height: 1.5;
       }
       .logo_index img{
        display: none;
+      }
+      .img_container{
+        display: block;
+        justify-content: center;
       } 
   }
   @media (min-width: 641px) {
