@@ -74,13 +74,13 @@
   }
  /* mobile menu -----------------------------------------------------------------------------------------------------------------------------------------------------------------*/
  .mobile-menu {
-    background-color: var(--white);
     position: absolute;
     width: 100%;
-    top: 80px;
+    top: 100px;
     left: 0;
     padding: 24px;
     height: 100%;
+    background-color: white;
   }
   .mobile-menu a {
     text-decoration: none;
@@ -92,7 +92,7 @@
     padding: 0;
     margin: 24px 0 0;
     list-style: none;
-    background-color: white;
+    
     width: max-content;
   }
   .mobile-menu ul:nth-child(1) {
