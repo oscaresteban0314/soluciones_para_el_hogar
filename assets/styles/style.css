@@ -93,6 +93,7 @@
     margin: 24px 0 0;
     list-style: none;
     background-color: white;
+    width: max-content;
   }
   .mobile-menu ul:nth-child(1) {
     border-bottom: 1px solid var(--very-light-pink);
